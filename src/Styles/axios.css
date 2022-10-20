@@ -1,0 +1,43 @@
+h2{
+    margin-left: 550px;
+    color:black;
+background-color: white;
+font-style: bold;
+   
+   
+}
+.cimg{
+    width: 1263px;
+}
+.image1{
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+    height: 300px;
+}
+.image2{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+    height: 300px;
+}
+
+.image3{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+    height: 300px;
+}
+.image4{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+    height: 300px;
+}
+
+.img1{
+    float: left;
+    margin-left: 250px;
+}
+
